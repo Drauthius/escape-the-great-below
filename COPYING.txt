@@ -1,0 +1,14 @@
+This project includes different licenses and third party libraries. You can
+find the license that applies to each file in the comment at the top of that
+file, or in the directory it resides in. For simplicity, they are also listed
+here:
+
+Component                     Directory          License
+----------------------------------------------------------------------
+Escape The Great Below source .                  GPLv3
+Escape The Great Below art    gfx/               Creative Common BY-SA 4.0
+baton                         lib/baton          MIT
+HardonCollider                lib/HardonCollider MIT
+hump                          lib/hump           MIT
+Sounds                        sfx/               Multiple, see sfx/LICENSE.txt
+Fonts                         ttf/               See ttf/LICENSE.txt
